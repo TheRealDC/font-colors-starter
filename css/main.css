@@ -9,20 +9,17 @@ body, html {
     width: 50%;
     margin: auto;
   }
-
-  h1 {
-    font-size: 2em;
-    color: #7b7d70;
-  }
-
-  h2 {
-    font-size: 1.5em;
-    color: #4eafb8;
-
-  }
-  p {
-    color: #ff8641;
-  }
+    h1 {
+      font-size: 2em;
+      color: #7b7d70;
+    }
+    h2 {
+      font-size: 1.5em;
+      color: #4eafb8;
+    }
+    p {
+      color: #ff8641;
+    }
 
 /**** Tablet *****/
 @media (min-width: 768px) {
